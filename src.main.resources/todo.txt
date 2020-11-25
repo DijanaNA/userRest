@@ -1,0 +1,14 @@
+Extend existen application userRest with follow methods in Admin controller and User controller
+
+
+  //TODO User controller:
+	//1. Create user profile
+	//2. Update user profile
+
+  //TODO Admin controller:
+	//1. Delete user - only admin can delete user
+	//2. Verify user - only admin can verify user
+	//3. Get all users that are not verified - only admin can access to list with all unverified users
+	//4. Get all users - list of users with user profiles
+
+  
